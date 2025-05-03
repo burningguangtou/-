@@ -373,31 +373,31 @@ webview://https://www.nbs.cn/live/?channel=文旅纪录频道
 webview://https://www.nbs.cn/live/?channel=少儿频道
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvws_index_active.png?v=2" group-title="北京",北京卫视
-webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1746234012&sign=1486fb34d3d6fadad53a121aea2b0412
 
 #EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvwy_index_active.png?v=2" group-title="北京",BRTV文艺
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1746234009&sign=07245e832dd75238c646676219ee8dc7
 
 #EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvkj_index_active.png?v=2" group-title="北京",BRTV纪实科教
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1746234009&sign=43ea61a33758d93bc90a60d2bd2ac066
 
 #EXTINF:-1 tvg-name="BRTV影视" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvys_index_active.png?v=2" group-title="北京",BRTV影视
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746234010&sign=b8312ec5da8df3db0a019ece1b92b79a
 
 #EXTINF:-1 tvg-name="BRTV财经" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvcj_index_active.png?v=2" group-title="北京",BRTV财经
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746234010&sign=c1ec9f04a044fcf6ef72f6bfd74eba94
 
 #EXTINF:-1 tvg-name="BRTV体育休闲" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvdajs_index_active.png?v=2" group-title="北京",BRTV体育休闲
 webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
 
 #EXTINF:-1 tvg-name="BRTV i生活" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvsh_index_active.png?v=2" group-title="北京",BRTV i生活
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1746234010&sign=590815ccc963896bf2764c0bc97d3e4d
 
 #EXTINF:-1 tvg-name="BRTV新闻" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvxw_index_active.png?v=2" group-title="北京",BRTV新闻
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1746234011&sign=dee437bb75a9962dd26988fc318f515d
 
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvse_index_active.png?v=2" group-title="北京",卡酷少儿
-webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746234011&sign=2ce91e6d5302189528fdb13fed82fe23
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",安徽卫视
 webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
