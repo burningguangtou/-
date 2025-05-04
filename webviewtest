@@ -126,6 +126,15 @@ webview://https://yangshipin.cn/tv/home?pid=600099655
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视;央视频",CCTV 怀旧剧场
 webview://https://yangshipin.cn/tv/home?pid=600099620
 
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="卫视;央视频",凤凰资讯
+webview://http://tv.haoqu99.com/4/fhzx.html
+
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="卫视;央视频",凤凰中文
+webview://http://tv.haoqu99.com/4/fhzw.html
+
+#EXTINF:-1 tvg-name="凤凰HK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰HK.png" group-title="卫视;央视频",凤凰HK
+webview://http://tv.haoqu99.com/4/fhxg.html
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视;央视频",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
 
