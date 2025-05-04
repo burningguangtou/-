@@ -132,7 +132,7 @@ webview://http://tv.haoqu99.com/4/fhzx.html
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="卫视;央视频",凤凰中文
 webview://http://tv.haoqu99.com/4/fhzw.html
 
-#EXTINF:-1 tvg-name="凤凰HK" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰HK.png" group-title="卫视;央视频",凤凰HK
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫士香港台.png" group-title="卫视;央视频",凤凰卫视香港台
 webview://http://tv.haoqu99.com/4/fhxg.html
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视;央视频",北京卫视
