@@ -557,3 +557,5 @@ webview://https://www.cztv.com/liveTV/111
 
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/之江纪录.png" group-title="浙江",之江纪录
 webview://https://www.cztv.com/liveTV/112
+
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
