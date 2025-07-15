@@ -559,7 +559,7 @@ webview://https://www.cztv.com/liveTV/111
 webview://https://www.cztv.com/liveTV/112
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视",东方卫视
-https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1752598809-0d34d0973ca746b4a196b4d36750cdd2-0-b754dc1e10d20dbbcc90a9d44531390e
+https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1752642008-ea2a657118734c409df17e33041b8bfd-0-5cc39435616471db242747107768d16e
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视",东方卫视
 http://iptv.huuc.edu.cn/player.html?channel=dfhd
